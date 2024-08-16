@@ -16,6 +16,7 @@
   "dependencies": {
     "devextreme": "24.1",
     "devextreme-vue": "24.1",
+    "lodash.debounce": "^4.0.8",
     "nuxt": "^3.12.4",
     "nuxt-auth-sanctum": "^0.4.6",
     "vue": "latest",
